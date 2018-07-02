@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Dairy</string>
+    <string name="title_activity_main2">My Dairy</string>
+    <string name="title_activity_suppliers">Suppliers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="prompt_confirm_password">Confirm Password </string>
+    <string name="action_login">Login</string>
+    <string name="action_save_supplier">Save</string>
+    <string name="action_add_supplier">Add New Supplier</string>
+    <string name="action_login_short">login</string>
+    <string name="action_sign_up_short">Sign up</string>
+    <string name="action_create_password_short">Create password</string>
+    <string name="action_confirm_short">Confirm password</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
